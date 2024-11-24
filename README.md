@@ -10,8 +10,8 @@ Each cursor is meant to be generated with `xcursorgen`.
 - [ ] Automation script
 - [ ] The other cursors
     - [ ] alt
-    - [ ] beam
-    - [ ] forbidden
+    - [x] beam
+    - [x] forbidden
     - [ ] hand
     - [ ] help
     - [ ] move
