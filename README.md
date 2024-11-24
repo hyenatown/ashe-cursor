@@ -5,7 +5,7 @@
 
 Originally designed for Windows, I no longer need the old .ani format.
 ### Make from source
-Each cursor is meant to be generated with `xcursorgen`.
+The included script should generate all the cursors and symlinks automagically under `build`.
 ### Todo
 - [ ] Automation script
 - [ ] The other cursors
