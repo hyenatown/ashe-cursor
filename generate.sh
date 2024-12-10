@@ -7,6 +7,7 @@ xcursorgen --prefix ./link ./link/ashe-link.cursor ./build/cursors/link
 xcursorgen --prefix ./watch ./watch/ashe-watch.cursor ./build/cursors/watch
 xcursorgen --prefix ./forbidden ./forbidden/ashe-forbidden.cursor ./build/cursors/forbidden
 xcursorgen --prefix ./alt ./alt/ashe-alt.cursor ./build/cursors/alt
+xcursorgen --prefix ./move ./move/ashe-move.cursor ./build/cursors/move
 tee ./build/index.theme <<EOF
 [Icon Theme]
 Name=Ashe
@@ -41,3 +42,8 @@ ln -s forbidden x-cursor
 ln -s forbidden 03b6e0fcb3499374a867c041f52298f0
 ln -s alt center_ptr
 ln -s alt up-arrow
+ln -s move all-scroll
+ln -s move dnd-move
+ln -s move fleur
+ln -s move pointer-move
+ln -s move size_all

@@ -14,7 +14,7 @@ The included script should generate all the cursors and symlinks automagically u
     - [x] forbidden
     - [ ] hand
     - [ ] help
-    - [ ] move
+    - [x] move
     - [ ] pen
     - [ ] precise
     - [ ] size_EW
