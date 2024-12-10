@@ -9,7 +9,7 @@ The included script should generate all the cursors and symlinks automagically u
 ### Todo
 - [ ] Automation script
 - [ ] The other cursors
-    - [ ] alt
+    - [x] alt
     - [x] beam
     - [x] forbidden
     - [ ] hand
